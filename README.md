@@ -27,6 +27,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
