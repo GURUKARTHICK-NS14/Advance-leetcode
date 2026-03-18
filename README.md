@@ -40,6 +40,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -65,4 +66,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
