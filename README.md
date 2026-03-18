@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -56,4 +57,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
