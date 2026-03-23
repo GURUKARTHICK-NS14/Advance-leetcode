@@ -46,6 +46,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -92,4 +93,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
