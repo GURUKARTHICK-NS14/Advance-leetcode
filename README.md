@@ -32,6 +32,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
