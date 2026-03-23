@@ -44,6 +44,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@
 | [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0367-valid-perfect-square](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
