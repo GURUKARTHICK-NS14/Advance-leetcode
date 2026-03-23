@@ -62,6 +62,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
