@@ -6,11 +6,13 @@
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +37,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,8 +120,13 @@
 | [0061-rotate-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
