@@ -120,6 +120,7 @@
 | [0061-rotate-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
