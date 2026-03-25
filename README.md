@@ -125,6 +125,7 @@
 | [0141-linked-list-cycle](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -142,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
