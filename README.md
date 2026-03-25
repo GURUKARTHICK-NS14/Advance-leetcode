@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
