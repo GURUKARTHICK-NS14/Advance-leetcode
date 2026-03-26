@@ -97,10 +97,12 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0520-detect-capital](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0520-detect-capital/) | Easy |
 ## Bit Manipulation
@@ -165,5 +167,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
