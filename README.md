@@ -42,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -73,6 +74,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Math
@@ -147,6 +149,7 @@
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +170,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
