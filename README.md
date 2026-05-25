@@ -70,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0649-dota2-senate](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Math
@@ -105,6 +106,7 @@
 | [0022-generate-parentheses](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0520-detect-capital](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0520-detect-capital/) | Easy |
+| [0649-dota2-senate](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,4 +171,8 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0051-n-queens/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
