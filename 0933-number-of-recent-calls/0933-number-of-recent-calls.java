@@ -1,17 +1,23 @@
+import java.util.*;
 class RecentCounter {
-    static final int[] records = new int[10000]; //
-    int start;
-    int end;
-    public RecentCounter() {        
-        start = 0;
-        end = 0;
+    Queue<Integer>q;
+    public RecentCounter(){
+        q=new LinkedList<>();
     }
-    public int ping(int t) {
-        while (start < end && (t - records[start] > 3000)) { 
-            start++;
-           
+    public int ping(int t){
+        q.offer(t);
+        while(!q.isEmpty()&&q.peek()<t-3000){
+            q.poll();
         }
-        records[end++] = t; 
-        return end - start; 
+        return q.size();
+    }
+}
+public class Solutions{
+    public static void main(String[]args){
+        RecentCounter rc=new RecentCounter();
+        System.out.println(rc.ping(1));
+        System.out.println(rc.ping(100));
+        System.out.println(rc.ping(3001));
+        System.out.println(rc.ping(3002));
     }
 }
