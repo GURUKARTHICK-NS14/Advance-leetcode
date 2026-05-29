@@ -176,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0207-course-schedule](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Simulation
@@ -207,4 +208,16 @@
 | ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0207-course-schedule/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
