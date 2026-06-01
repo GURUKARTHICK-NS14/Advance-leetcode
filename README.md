@@ -88,6 +88,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
@@ -116,6 +117,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0322-coin-change/) | Medium |
@@ -247,4 +249,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
