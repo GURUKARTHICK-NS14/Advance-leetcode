@@ -51,6 +51,7 @@
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@
 | [0326-power-of-three](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
