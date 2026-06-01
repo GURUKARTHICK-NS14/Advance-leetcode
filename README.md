@@ -84,6 +84,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -110,6 +111,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +231,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
