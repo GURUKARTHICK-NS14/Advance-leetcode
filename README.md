@@ -49,6 +49,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Binary Search
@@ -240,4 +241,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
