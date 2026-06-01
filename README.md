@@ -41,6 +41,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0322-coin-change/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -64,6 +65,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -121,6 +123,7 @@
 | [0062-unique-paths](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## String
