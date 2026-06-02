@@ -31,6 +31,7 @@
 | [0035-search-insert-position](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0051-n-queens](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -121,6 +122,7 @@
 | [0022-generate-parentheses](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0198-house-robber/) | Medium |
@@ -152,6 +154,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Hash Table
