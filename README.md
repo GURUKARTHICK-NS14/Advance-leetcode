@@ -127,6 +127,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +136,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0520-detect-capital](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0649-dota2-senate](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
