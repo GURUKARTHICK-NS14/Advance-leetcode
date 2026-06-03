@@ -104,6 +104,7 @@
 | [0367-valid-perfect-square](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2652-sum-multiples](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2652-sum-multiples/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
