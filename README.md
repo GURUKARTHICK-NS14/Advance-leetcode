@@ -53,6 +53,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -73,6 +74,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,9 +269,14 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0062-unique-paths/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
