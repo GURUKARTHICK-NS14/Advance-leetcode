@@ -58,6 +58,7 @@
 | [1046-last-stone-weight](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -193,6 +194,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
