@@ -152,6 +152,7 @@
 | [0520-detect-capital](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0520-detect-capital/) | Easy |
 | [0649-dota2-senate](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +287,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
