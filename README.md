@@ -56,6 +56,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
