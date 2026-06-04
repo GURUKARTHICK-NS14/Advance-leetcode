@@ -59,6 +59,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1472-design-browser-history](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1619-mean-of-array-after-removing-some-elements/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -142,6 +143,7 @@
 | [0322-coin-change](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@
 | [0239-sliding-window-maximum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
