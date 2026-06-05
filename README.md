@@ -4,6 +4,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0202-happy-number/) | Easy |
@@ -167,6 +169,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0143-reorder-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0231-power-of-two](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Matrix
@@ -189,6 +192,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
