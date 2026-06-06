@@ -118,6 +118,7 @@
 | [0202-happy-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0319-bulb-switcher](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -313,4 +314,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
