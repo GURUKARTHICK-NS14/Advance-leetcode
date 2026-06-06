@@ -72,6 +72,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@
 | [0064-minimum-path-sum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +300,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
