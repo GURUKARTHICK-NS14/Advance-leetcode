@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -114,6 +115,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0202-happy-number/) | Easy |
@@ -185,6 +187,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
