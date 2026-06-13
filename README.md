@@ -102,6 +102,7 @@
 | [0202-happy-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@
 | [0091-decode-ways](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0520-detect-capital](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0520-detect-capital/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
