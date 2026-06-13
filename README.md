@@ -327,6 +327,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0595-big-countries](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1148-article-views-i](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
