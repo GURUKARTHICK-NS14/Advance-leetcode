@@ -332,6 +332,7 @@
 | [0175-combine-two-tables](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
