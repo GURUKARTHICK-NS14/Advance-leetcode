@@ -333,6 +333,7 @@
 | [0176-second-highest-salary](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
