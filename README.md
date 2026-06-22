@@ -332,6 +332,7 @@
 | [0175-combine-two-tables](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0182-duplicate-emails/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
