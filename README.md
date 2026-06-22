@@ -348,6 +348,7 @@
 | [1148-article-views-i](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/GURUKARTHICK-NS14/Advance-leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
